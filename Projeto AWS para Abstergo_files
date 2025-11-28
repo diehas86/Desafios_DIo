@@ -1,2 +1,38 @@
 Este projeto foi desenvolvido como um trabalho de estudo para a DIO, aplicando conceitos de AWS, segurança, filas e organização de dados.
 A proposta foi simular como a Abstergo Industries utilizaria serviços da AWS para ter mais segurança, controle e eficiência em suas operações.
+
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+Data: [27/01/2025]  
+Empresa: Abstergo Industries  
+Responsável: [Diego Hashimoto]  
+
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa [Abstergo], realizado por [Diego Hashimoto]. O objetivo do projeto foi selecionar 3 serviços da AWS, com a finalidade de reduzir custos de forma imediata.  
+
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, são descritas as etapas do projeto:  
+
+Etapa 1:  
+- [Amazon S3 + Athena]  
+- [Consulta em banco de dados e escalabilidade]  
+- [Permitir que a empresa faça consulta diretamente em dados armazenados na S3 sem precisar mover os dados ou gerenciar servidores]  
+
+Etapa 2:  
+- [AWS Key Management Service (KMS) + S3 com criptografia cliente-lado (CSE) ]  
+- [Segurança e confidencialidade]  
+- [Garantir que nenhum dado seja acessível sem autorização explícita, mesmo para a própria AWS, tornando impossível qualquer acesso externo ou investigação sem a chave correta]  
+
+Etapa 3:  
+- [AWS CloudTrail]  
+- [Foco da ferramenta]  
+- []Registrar todas as ações realizadas nos recursos da AWS, incluindo acessos a S3, uso de chaves KMS, consultas no Athena e qualquer modificação na infraestrutura  
+
+## Conclusão
+A implementação de ferramentas na empresa *[nome da empresa]* tem como resultado esperado [benefícios das ferramentas], o que aumentará a eficiência e a produtividade da organização. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam aprimorar ainda mais os processos da empresa.  
+
+## Anexos
+[lista de anexos, como manuais, documentos, planilhas, entre outros]  
+
+Assinatura do Responsável pelo Projeto:  
+[Diego Hashimoto]  
